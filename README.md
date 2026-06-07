@@ -75,7 +75,7 @@ Open a terminal and pull your preferred model. You can choose from:
 **🔹 Option A: Qwen3 (Recommended for most users)**
 ```bash
 # Fast and efficient - great balance of speed and quality
-ollama pull qwen3:1.7b
+ollama pull qwen3:8b
 ```
 
 **🔹 Option B: DeepSeek R1 (Better reasoning)**

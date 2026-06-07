@@ -3,7 +3,7 @@ Centralized configuration for Pocket AI.
 """
 
 # --- Model Configuration ---
-RESPONDER_MODEL = "qwen3:8b"
+RESPONDER_MODEL = "phi3"
 OLLAMA_URL = "http://localhost:11434/api"
 LOCAL_ROUTER_PATH = "./merged_model"
 HF_ROUTER_REPO = "nlouis/pocket-ai-router"  # Hugging Face repo for auto-download
